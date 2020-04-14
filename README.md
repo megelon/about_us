@@ -1,2 +1,2 @@
-# Acerca de nosotros
-Este proyecto busca darle claridad a nuestra organización, definiendo nuestro propósito de una manera concreta.
+# About us
+This project defines our organization, it defines our purpose in a concrete way.
