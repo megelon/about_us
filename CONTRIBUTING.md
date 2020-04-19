@@ -19,11 +19,10 @@ You can report any unacceptable situationvia e-mail: [contacto@rlab.be](mailto:c
 
 ## How can I contribute?
 
-ETER is organised in three main sub-projects:
+GWP is organised in two main sub-projects:
 
-* [ETER-monitor](https://github.com/rlyehlab/eter-monitor)
-* [ETER-workshop](https://github.com/rlyehlab/eter-workshop)
-* [ETER-game](https://github.com/rlyehlab/eter-game)
+* philosophy (repo link)
+* tech platform (repo link)
 
 Each sub-project contains tasks or *issues*, categorised in:
 
