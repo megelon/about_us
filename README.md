@@ -1,4 +1,7 @@
-# About us <img src="super logo" width=3% height=20% alt="a logo we don't have yet">  
+# About us
+
+Work in progress!!
+
 ***Movement for a truly open eductaion system***
 
 :es: [Versión en Español](_ES/README_ES.md)
