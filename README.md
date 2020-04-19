@@ -11,7 +11,7 @@ Work in progress!!
 |Link|Description|
 |-----|------|
 |[Main Repository]()|Info & Issues on comms, design, translations, project management
-|[Methodology]()| What guide us in the development of of learning resources
+|[Methodology](./methodology/README.md)| What guide us in the development of of learning resources
 |[Learning resources]()| What you can use to learn or help others learn
 |[Collaborator's Guide](CONTRIBUTING.md)| Want to contribute? Read this!
 |[Code of Conduct](CODE_OF_CONDUCT.md)| Please read so we can all be as happy as possible <3
