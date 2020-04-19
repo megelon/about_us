@@ -1,1 +1,3 @@
-To be translated...
+
+Enlighs version: [CONTRIBUTING](../CONTRIBUTING.md)
+
