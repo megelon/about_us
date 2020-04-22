@@ -1,19 +1,23 @@
 English version: [MANIFEST.md](../MANIFESTO.md)
 
 #el_sueño
+
 Queremos iniciar una revolución de procesos de aprendizaje, que sea abierto y fomente el pensamiento crítico, enfocado en tecnología.
 
 Por este motivo, decidimos iniciar una revolución que construya un nuevo sistema de aprendizaje, abierto, basado en pensamiento crítico, que le permita a cualquier humano aprender y ser parte del desarrollo del aprendizaje.
 
 #lo_que_esta_corrupto
+
 Por generaciones, los seres humanos hemos sido guiados por un sistema educativo central y escaso. Esto nos ha llevado a que millones de personas no tengan acceso a la educación y que, una vez en el sistema, se sientan frustrados por los logros no obtenidos. 
 
 #vision
+
 Creemos que el aprendizaje debería ser accesible para todos, sin importar experiencias previas, hábitat, color y, mucho menos, dinero. 
 Creemos en la fuerza de las instituciones abiertas y descentralizadas: sabemos que entre todos podemos crear el mejor sistema de aprendizaje posible. 
 Creemos que las comunidades que trabajan coordinadamente tienen el poder de cambiar las reglas de juego. 
 
 #statement_final
+
 Hoy se acaba la educación que encasilla y empieza el aprendizaje que descubre del máximo potencial del ser humano.
 
 
