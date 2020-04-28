@@ -4,9 +4,7 @@ Este documento está en construcción y lo que se muestran son secciones que est
 
 # el_sueño
 
-Queremos iniciar una revolución de procesos de aprendizaje, que sea abierto y fomente el pensamiento crítico, enfocado en tecnología.
-
-Por este motivo, decidimos iniciar una revolución que construya un nuevo sistema de aprendizaje, abierto, basado en pensamiento crítico, que le permita a cualquier humano aprender y ser parte del desarrollo del aprendizaje.
+Soñamos con una magna comunidad de aprendizaje, que inicie una revolución de procesos de aprendizaje. Una comunidad construida por todos y creada para el aprendizaje de todos, descentralizada y de libre acceso y participación.
 
 # lo_que_esta_corrupto
 
