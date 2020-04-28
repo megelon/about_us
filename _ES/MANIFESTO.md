@@ -14,9 +14,7 @@ Por generaciones, los seres humanos hemos sido guiados por un sistema educativo 
 
 # vision
 
-Creemos que el aprendizaje debería ser accesible para todos, sin importar experiencias previas, hábitat, color y, mucho menos, dinero. 
-Creemos en la fuerza de las instituciones abiertas y descentralizadas: sabemos que entre todos podemos crear el mejor sistema de aprendizaje posible. 
-Creemos que las comunidades que trabajan coordinadamente tienen el poder de cambiar las reglas de juego. 
+Creemos que el aprendizaje debería ser accesible para todos, sin importar dónde naciste, color y, mucho menos, dinero. Creemos en una orientación del aprendizaje con una base en la exploración y creación de conocimiento, no sólo una preparación utilitaria para labores específicas. Creemos en la fuerza de las instituciones abiertas y descentralizadas: sabemos que entre todos podemos crear el mejor sistema de aprendizaje posible y que las comunidades que trabajan coordinadamente tienen el poder de cambiar las reglas de juego.
 
 # statement_final
 
