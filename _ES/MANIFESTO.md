@@ -4,7 +4,7 @@ Este documento está en construcción y lo que se muestran son secciones que est
 
 # el_sueño
 
-Soñamos con una magna comunidad de aprendizaje, que inicie una revolución de procesos de aprendizaje. Una comunidad construida por todos y creada para el aprendizaje de todos, descentralizada y de libre acceso y participación.
+Soñamos con una revolución que rompa el status-quo educativo. Soñamos con una comunidad construida por todos y creada para el aprendizaje de todos, descentralizada y de libre acceso y participación.
 
 # lo_que_esta_corrupto
 
