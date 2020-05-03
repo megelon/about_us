@@ -21,31 +21,7 @@ Hoy se acaba la educación que encasilla y empieza el aprendizaje que descubre d
 
 # pilares
 
-- Pensamiento crítico: 
-
-- Solución de problemas: Los aprendices consideran varias alternativas y reconocen patrones que les ayudan a resolver problemas empleando metodos que les permitan cada vez llegar de forma más consistente a soluciones innovadoras que rompen con sus sesgos cognitivos.
-
--Pensamiento lógico:
-
--Comunicación efectiva:
-
--Colaboración activa
-
--Aprendizaje autoguiado
-
--Academic Mindset
-
--Growth Mindset
-
--Aprendizaje basado en proyectos
-
--Aprender a enseñar
-
--Propósito sostenibles: El aprendiz desarrolla propositos personales y adquiere la capacidad de ponerse en la piel de otras personas y actuar en consecuencia. Su base es la empatía.
-
--Se favorece el crear y explorar sobre la catedra
-Las emociones constituyen la base del conocimiento, se favorecen experiencias de aprendizaje donde se tomen principios del arte para construir el conocimiento a partir de emociones.
-Se favorecen experiencias donde el aprendiz se vea incitado a continuar el aprendizaje en divergencia a la linea original.
-Se busca que el aprendiz pueda construir una comunidad propia (su familia, sus amigos, personas con gustos afines, etc) en la que pueda tanto entregar los resultados de su aprendizaje como orientar nuevas rutas de aprendizaje)
-
-Estos pilares no son en un principio una creación de nuestro grupo si no más una recoleccion de diferentes movimientos como el Deeper Learning, Aprendizage Invertido, <poner mas>.
+•	**Cada persona crea sus conocimientos:** Sabemos que cada persona puede construir sus propios conocimientos a partir de las experiencias vividas, los seres con las que comparte, y las herramientas que tiene a su disposición. 
+•	**Habilidades para aprender y cambiar:** Queremos potenciar el desarrollo de habilidades que le permita a las personas pensar de manera crítica los retos que enfrentamos hoy como sociedad, resolver problemas creativamente y ser autodidactas.
+•	**Trabajo individual y colectivo:** Cada persona en su proceso de aprendizaje necesita su espacio solitario para descubrir sus propias rutas, preguntas y formas de aprender; pero compartir las preguntas y búsquedas con otros nos lleva a enriquecer la comprensión del mundo, de la vida, a encontrar rutas colectivas para sumar muchas manos a descubrir e implementar soluciones para transformación que necesitamos.
+•	**Conocimiento abierto:** Los espacios en los que suceden los procesos de aprendizaje son de acceso libre para cualquier persona desde cualquier lugar del mundo, y se alimentan permanentemente de la creación abierta a muchas manos.
