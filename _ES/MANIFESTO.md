@@ -11,10 +11,13 @@ Creemos que el aprendizaje debería ser accesible para todos, sin importar dónd
 Hoy se acaba la educación que encasilla y empieza el aprendizaje que descubre del máximo potencial del ser humano.
 
 
-•	**Cada persona crea sus conocimientos:** Sabemos que cada persona puede construir sus propios conocimientos a partir de las experiencias vividas, los seres con las que comparte, y las herramientas que tiene a su disposición.
+•	**¡Construimos nuestros conocimientos!:** Sabemos que los seres humanos podemos crear nuestros propios conocimientos a partir de las experiencias vividas, los seres con los que compartimos, y las herramientas con las que interactuamos todos los días.
 
-•	**Aprendemos toda la vida:** Queremos potenciar el desarrollo de habilidades que nos permita a las personas pensar de manera crítica los retos que enfrentamos hoy como sociedad, resolver problemas creativamente y ser autodidactas.
+•	**Aprendemos toda la vida:** Queremos potenciar el desarrollo de habilidades que nos permita pensar de manera crítica los retos que enfrentamos hoy como sociedad, resolver problemas creativamente y ser autodidactas.
 
-•	**Trabajo individual y colectivo:** Cada persona en su proceso de aprendizaje necesita su espacio solitario para descubrir sus propias rutas, preguntas y formas de aprender; pero compartir las preguntas y búsquedas con otros nos lleva a enriquecer la comprensión del mundo, de la vida, a encontrar rutas colectivas para sumar muchas manos a descubrir e implementar soluciones para transformación que necesitamos.
+•	**Trabajamos como indivios y como colectivo:** Las personas en nuestro proceso de aprendizaje necesitamos un espacio solitario para descubrir nuestras propias rutas, preguntas y formas de aprender; pero compartir las preguntas y búsquedas con otros nos lleva a enriquecer la comprensión del mundo, de la vida, a encontrar rutas colectivas para transformar.
 
-•	**Conocimiento abierto:** Los espacios en los que suceden los procesos de aprendizaje son de acceso libre para cualquier persona desde cualquier lugar del mundo, y se alimentan permanentemente de la creación abierta a muchas manos.
+•	**Creamos conocimiento abierto:** Los espacios, metodologías y herramientas que vamos creando son de acceso libre para cualquier persona desde cualquier lugar del mundo, que quiera aprender o compartir aprendizajes con otros.
+
+•	**Experimentamos todo el tiempo:** El propósito de crear un nuevo sistema de aprendizaje nos incita a experimentar permanentemente, a comprender los caminos que otros han recorrido, y abrir trochas por los caminos que aún no han sido explorados.
+
