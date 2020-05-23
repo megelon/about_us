@@ -2,50 +2,22 @@ English version: [MANIFEST.md](../MANIFESTO.md)
 
 Este documento está en construcción y lo que se muestran son secciones que están bajo responsabilidad de las personas asignadas al issue correspondiente. 
 
-# el_sueño
-
 Soñamos con una revolución que rompa el status-quo educativo. Soñamos con una comunidad construida por todos y creada para el aprendizaje de todos, descentralizada y de libre acceso y participación.
-
-# lo_que_esta_corrupto
 
 Por generaciones, los seres humanos hemos sido guiados por un sistema educativo central y escaso. Esto nos ha llevado a que millones de personas no tengan acceso a la educación y que, una vez en el sistema, se sientan frustrados por los logros no obtenidos. 
 
-# vision
-
 Creemos que el aprendizaje debería ser accesible para todos, sin importar dónde naciste, color y, mucho menos, dinero. Creemos en una orientación del aprendizaje con una base en la exploración y creación de conocimiento, no sólo una preparación utilitaria para labores específicas. Creemos en la fuerza de las instituciones abiertas y descentralizadas: sabemos que entre todos podemos crear el mejor sistema de aprendizaje posible y que las comunidades que trabajan coordinadamente tienen el poder de cambiar las reglas de juego.
-
-# statement_final
 
 Hoy se acaba la educación que encasilla y empieza el aprendizaje que descubre del máximo potencial del ser humano.
 
 
-# pilares
+•	**¡Construimos nuestros conocimientos!:** Sabemos que los seres humanos podemos crear nuestros propios conocimientos a partir de las experiencias vividas, los seres con los que compartimos, y las herramientas con las que interactuamos todos los días.
 
-- Pensamiento crítico: 
+•	**Aprendemos toda la vida:** Queremos potenciar el desarrollo de habilidades que nos permita pensar de manera crítica los retos que enfrentamos hoy como sociedad, resolver problemas creativamente y ser autodidactas.
 
-- Solución de problemas: Los aprendices consideran varias alternativas y reconocen patrones que les ayudan a resolver problemas empleando metodos que les permitan cada vez llegar de forma más consistente a soluciones innovadoras que rompen con sus sesgos cognitivos.
+•	**Trabajamos como indivios y como colectivo:** Las personas en nuestro proceso de aprendizaje necesitamos un espacio solitario para descubrir nuestras propias rutas, preguntas y formas de aprender; pero compartir las preguntas y búsquedas con otros nos lleva a enriquecer la comprensión del mundo, de la vida, a encontrar rutas colectivas para transformar.
 
--Pensamiento lógico:
+•	**Creamos conocimiento abierto:** Los espacios, metodologías y herramientas que vamos creando son de acceso libre para cualquier persona desde cualquier lugar del mundo, que quiera aprender o compartir aprendizajes con otros.
 
--Comunicación efectiva:
+•	**Experimentamos todo el tiempo:** El propósito de crear un nuevo sistema de aprendizaje nos incita a experimentar permanentemente, a comprender los caminos que otros han recorrido, y abrir trochas por los caminos que aún no han sido explorados.
 
--Colaboración activa
-
--Aprendizaje autoguiado
-
--Academic Mindset
-
--Growth Mindset
-
--Aprendizaje basado en proyectos
-
--Aprender a enseñar
-
--Propósito sostenibles: El aprendiz desarrolla propositos personales y adquiere la capacidad de ponerse en la piel de otras personas y actuar en consecuencia. Su base es la empatía.
-
--Se favorece el crear y explorar sobre la catedra
-Las emociones constituyen la base del conocimiento, se favorecen experiencias de aprendizaje donde se tomen principios del arte para construir el conocimiento a partir de emociones.
-Se favorecen experiencias donde el aprendiz se vea incitado a continuar el aprendizaje en divergencia a la linea original.
-Se busca que el aprendiz pueda construir una comunidad propia (su familia, sus amigos, personas con gustos afines, etc) en la que pueda tanto entregar los resultados de su aprendizaje como orientar nuevas rutas de aprendizaje)
-
-Estos pilares no son en un principio una creación de nuestro grupo si no más una recoleccion de diferentes movimientos como el Deeper Learning, Aprendizage Invertido, <poner mas>.
