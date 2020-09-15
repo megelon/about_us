@@ -2,22 +2,25 @@ English version: [MANIFEST.md](../MANIFESTO.md)
 
 Este documento está en construcción y lo que se muestran son secciones que están bajo responsabilidad de las personas asignadas al issue correspondiente. 
 
-Soñamos con una revolución que rompa el status-quo educativo. Soñamos con una comunidad construida por todos y creada para el aprendizaje de todos, descentralizada y de libre acceso y participación.
+Somos soñantes de todo el mundo. Nuestro sueño común consiste en romper el statu quo educativo y construir una comunidad para el aprendizaje de todos. Una comunidad descentralizada, de libre acceso y de libre participación.
 
-Por generaciones, los seres humanos hemos sido guiados por un sistema educativo central y escaso. Esto nos ha llevado a que millones de personas no tengan acceso a la educación y que, una vez en el sistema, se sientan frustrados por los logros no obtenidos. 
+Por generaciones, los seres humanos hemos vivido bajo la influencia de sistemas educativos centrales y escasos. Esto nos ha llevado a que millones de personas no tengan acceso a la educación, y que muchas que sí lo tienen se sientan frustradas por los logros prometidos que no se consiguen.
 
-Creemos que el aprendizaje debería ser accesible para todos, sin importar dónde naciste, color y, mucho menos, dinero. Creemos en una orientación del aprendizaje con una base en la exploración y creación de conocimiento, no sólo una preparación utilitaria para labores específicas. Creemos en la fuerza de las instituciones abiertas y descentralizadas: sabemos que entre todos podemos crear el mejor sistema de aprendizaje posible y que las comunidades que trabajan coordinadamente tienen el poder de cambiar las reglas de juego.
+Creemos que la educación debe estar al alcance de todos, sin importar el origen, el color de piel y, mucho menos, el dinero que tengamos. Creemos en una orientación del aprendizaje basado en la exploración y creación de conocimiento, no sólo como una preparación utilitaria para labores específicas. Creemos en la fuerza de las instituciones abiertas y descentralizadas. Creemos en la voluntad colectiva para crear el mejor sistema educactivo posible. Creemos que las comunidades que trabajan coordinadamente tienen el poder de cambiar las reglas de juego.
 
-Hoy se acaba la educación que encasilla y empieza el aprendizaje que descubre del máximo potencial del ser humano.
+    1. Construyamos nuestros conocimientos.
+Los seres humanos podemos crear nuestros propios conocimientos a partir de las experiencias vividas; 	aprendamos de los seres con los que compartimos; exploremos con los objetos de nuestro entorno; recibamos las enseñanzas de la naturaleza; estemos siempre abiertos al saber que durante siglos la humanidad ha construido en todo el Universo. 
+    
+    2. Aprendamos durante toda la vida. 
+Potenciemos el desarrollo de habilidades que nos permitan pensar de manera crítica ante los retos de la sociedad de hoy. Preparémonos para resolver problemas creativamente y alentemos en nosotros mismos nuestra capacidad autodidacta.
+    
+    3. Trabajemos como individuos y como colectivo. 
+Las personas que estamos en el proceso de aprendizaje no solo necesitamos un espacio de soledad íntima para descubrir nuestras propias rutas, para responder a ciertas preguntas y asumir formas de aprender. También  debemos compartir las preguntas y las búsquedas con otros para enriquecer la comprensión del mundo y de la vida, para encontrar rutas colectivas transformadoras de realidades.
+    
+    4. Creemos conocimiento abierto. 
+Los espacios, metodologías y herramientas que creamos son de acceso libre para cualquier persona que, desde cualquier lugar del mundo, quiera aprender o compartir aprendizajes con otros.
+    
+    5. Experimentemos permanentemente. 
+El propósito de crear un nuevo sistema de aprendizaje nos impulsa a experimentar siempre, a comprender los caminos que otros han recorrido y a abrir trochas que aún no han sido exploradas.
 
-
-•	**¡Construimos nuestros conocimientos!:** Sabemos que los seres humanos podemos crear nuestros propios conocimientos a partir de las experiencias vividas, los seres con los que compartimos, y las herramientas con las que interactuamos todos los días.
-
-•	**Aprendemos toda la vida:** Queremos potenciar el desarrollo de habilidades que nos permita pensar de manera crítica los retos que enfrentamos hoy como sociedad, resolver problemas creativamente y ser autodidactas.
-
-•	**Trabajamos como indivios y como colectivo:** Las personas en nuestro proceso de aprendizaje necesitamos un espacio solitario para descubrir nuestras propias rutas, preguntas y formas de aprender; pero compartir las preguntas y búsquedas con otros nos lleva a enriquecer la comprensión del mundo, de la vida, a encontrar rutas colectivas para transformar.
-
-•	**Creamos conocimiento abierto:** Los espacios, metodologías y herramientas que vamos creando son de acceso libre para cualquier persona desde cualquier lugar del mundo, que quiera aprender o compartir aprendizajes con otros.
-
-•	**Experimentamos todo el tiempo:** El propósito de crear un nuevo sistema de aprendizaje nos incita a experimentar permanentemente, a comprender los caminos que otros han recorrido, y abrir trochas por los caminos que aún no han sido explorados.
-
+¡Ha llegado el fin de la educación que encasilla a las personas. Empieza el tiempo del ser humano en su máximo potencial!
