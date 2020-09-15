@@ -1,6 +1,4 @@
-English version: [MANIFEST.md](../MANIFESTO.md)
-
-Este documento está en construcción y lo que se muestran son secciones que están bajo responsabilidad de las personas asignadas al issue correspondiente. 
+[Documento en construcción, bienvenidas tus ideas...]
 
 Somos soñantes de todo el mundo. Nuestro sueño común consiste en romper el statu quo educativo y construir una comunidad para el aprendizaje de todos. Una comunidad descentralizada, de libre acceso y de libre participación.
 
