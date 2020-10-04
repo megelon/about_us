@@ -1,6 +1,6 @@
-# GWP01: Code of Conduct
+# MARAKA: Code of Conduct
 
-We, as part of GWP01, want to promote an open and inclusive community, so we are committed to ensure a harassment-free experience for everyone regardless of gender, sexual orientation, disability, physical appearance, body size, race, religion, or choice of text editor. We do not tolerate harassment of participants in any form.
+We, as part of MARAKA, want to promote an open and inclusive community, so we are committed to ensure a harassment-free experience for everyone regardless of gender, sexual orientation, disability, physical appearance, body size, race, religion, or choice of text editor. We do not tolerate harassment of participants in any form.
 
 ## How it works
 

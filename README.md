@@ -50,7 +50,7 @@ For us is important to keep a friendly and supportive environment within the pro
 ### Who are we?
 At the moment, collaborators are [collaborator 1](), [collaborator 2](), [collaborator 3]() ...
 
-This project was born at Medellín, Colombia.
+This project was born at Latin America
 
 ### Contact
 If you have any question you can contact us via e-mail: <contact@email.org> or you can open an issue in GitHub if you're familiar with the procedure.

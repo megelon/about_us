@@ -1,3 +1,5 @@
+:rocket: MARAKA :rocket:
+
 [Documento en construcción, bienvenidas tus ideas...]
 
 Somos soñantes de todo el mundo. Nuestro sueño común consiste en romper el statu quo educativo y construir una comunidad para el aprendizaje de todos. Una comunidad descentralizada, de libre acceso y de libre participación.
