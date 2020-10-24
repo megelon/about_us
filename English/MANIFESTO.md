@@ -1,6 +1,6 @@
 # MANIFEST
 
-The following are the main pillars of the project:
+The following are the main pillars of the project MARAKA:
 
 ...
 

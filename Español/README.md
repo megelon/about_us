@@ -6,9 +6,9 @@
 
 |Link|Description|
 |-----|------|
-|[Repositorio principal](Español/MANIFIESTO.md)|Información e "issues" en omms, diseño, traducciones y adminsitración del proyecto
-|[Gía para contribuir](Español/CONTRIBUYENDO.md)| Quieres contribuir? Lee esto!
-|[Código de Conducta](Español/CODIGO_DE_CONDUCTA.md)| Por favor lee esto para que todos podamos dar y recibir amor sin temor :gift_heart:
+|[Repositorio principal](MANIFIESTO.md)|Información e "issues" en omms, diseño, traducciones y adminsitración del proyecto
+|[Gía para contribuir](CONTRIBUYENDO.md)| Quieres contribuir? Lee esto!
+|[Código de Conducta](CODIGO_DE_CONDUCTA.md)| Por favor lee esto para que todos podamos dar y recibir amor sin temor :gift_heart:
 
 *** 
 ### :tada: Welcome! :tada:

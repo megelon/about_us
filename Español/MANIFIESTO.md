@@ -1,8 +1,8 @@
-:rocket: MARAKA :rocket:
+### :pencil: Manifiesto de MARAKA LEARNING :pencil:
 
-[Documento en construcción, bienvenidas tus ideas...]
+[Documento en construcción, ... ,bienvenidas tus ideas!!!]
 
-Somos soñantes de todo el mundo. Nuestro sueño común consiste en romper el statu quo educativo y construir una comunidad para el aprendizaje de todos. Una comunidad descentralizada, de libre acceso y de libre participación.
+Somos SOÑANTES de todo el mundo. Nuestro sueño común consiste en romper el statu quo educativo y construir una comunidad para el aprendizaje de todos. Una comunidad descentralizada, de libre acceso y de libre participación.
 
 Por generaciones, los seres humanos hemos vivido bajo la influencia de sistemas educativos centrales y escasos. Esto nos ha llevado a que millones de personas no tengan acceso a la educación, y que muchas que sí lo tienen se sientan frustradas por los logros prometidos que no se consiguen.
 
